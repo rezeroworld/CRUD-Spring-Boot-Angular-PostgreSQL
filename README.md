@@ -5,7 +5,7 @@ Full-stack Angular + Spring Boot + PostgreSQL CRUD Tutorial Application in that:
 - We can create, retrieve, update, delete Tutorials.
 - We can also find Tutorials by title.
 
-![spring-boot-angular-15-postgresql-example-crud.png](spring-boot-angular-15-postgresql-example-crud.png)
+![example.png](example.png)
 
 ## Run Spring Boot application
 ```
